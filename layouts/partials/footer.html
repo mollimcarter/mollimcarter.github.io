@@ -1,0 +1,8 @@
+<footer class="site-footer">
+  <div class="inner">
+    
+    {{ with .Site.Params.copyright }} 
+      <section class="copyright"> {{ dateFormat "2006" now }} {{ . | markdownify }}</section>{{ end }}
+
+    <section> {{ echoParam .Site.Params "hidebyline" }} </section>
+</footer>
