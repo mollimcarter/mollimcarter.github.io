@@ -6,6 +6,6 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;[info@chezmamie.com](mailto:info@chezmamie.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+223 76 29 94 14](tel:+22376299414)
+{{<icon class="fa fa-phone">}}&nbsp;[+223 79 20 10 10](tel:+22379201010)
 
 Appelez-nous!
